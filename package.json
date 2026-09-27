@@ -1,0 +1,18 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.3"
+  },
+  "dependencies": {
+    "chrome-launcher": "^1.2.1",
+    "lighthouse": "^13.5.0",
+    "xlsx": "^0.18.5"
+  }
+}
